@@ -14,7 +14,7 @@ Install python from  https://www.python.org/downloads/release/python-3911/
 
 ## Activate Virtual Environment
 ```source myproject/venv/bin/activate ```
-Now clone Repo and install requirments
+### Now clone Repo and install requirments
 
 ## Clone the repo
 ``` git clone https://github.com/Free-devleoper/movenet_with_webcam ```
