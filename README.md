@@ -21,13 +21,13 @@ Install python from  https://www.python.org/downloads/release/python-3911/
 ``` git clone https://github.com/Free-devleoper/movenet_with_webcam ``` OR Download this repo and unzip with winrar
 
 ## Move to repo local directory
-``` cd movenet_with_webcam ```
+``` cd movenet_with_webcam-master ```
 
 ## Install dependencies
-``` pip install -r requirements ```
+``` pip install -r requirements.txt ```
 
 ## Run
-``` python3 movenet.py ```
+``` python movenet.py ```
 
 It will pop up a window showcasing your webcam running the model, rendering the keypoint from the model
 
