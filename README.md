@@ -3,7 +3,7 @@ Pose estimation webcam application using Tensorflow's MoveNet model and OpenCV
 
 
 ## Clone the repo
-``` gh repo clone Free-devleoper/movenet_with_webcam ```
+``` git clone https://github.com/Free-devleoper/movenet_with_webcam ```
 
 ## Move to repo local directory
 ``` cd movenet_with_webcam ```
