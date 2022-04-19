@@ -18,7 +18,7 @@ Install python from  https://www.python.org/downloads/release/python-3911/
 ## Now clone Repo and install requirments(Required)
 
 ## Clone the repo
-``` git clone https://github.com/Free-devleoper/movenet_with_webcam ```
+``` git clone https://github.com/Free-devleoper/movenet_with_webcam ``` OR Download this repo and unzip with winrar
 
 ## Move to repo local directory
 ``` cd movenet_with_webcam ```
