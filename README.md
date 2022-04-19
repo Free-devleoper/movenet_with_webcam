@@ -4,17 +4,18 @@ Pose estimation webcam application using Tensorflow's MoveNet model and OpenCV
 # Installing Python 
 Install python from  https://www.python.org/downloads/release/python-3911/
 
-# Create Virtual Environment
+# Create Virtual Environment(Optional)
 
 ## Install the virtualenv tool
 ``` pip install virtualenv ```
 
-## Create Project for Virtualenvironment
+## Create Project for Virtualenvironment(Optional)
   ``` python -m pip install virtualenv```
 
-## Activate Virtual Environment
+## Activate Virtual Environment(Optional)
 ```source myproject/venv/bin/activate ```
-### Now clone Repo and install requirments
+
+## Now clone Repo and install requirments(Required)
 
 ## Clone the repo
 ``` git clone https://github.com/Free-devleoper/movenet_with_webcam ```
