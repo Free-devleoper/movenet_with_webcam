@@ -28,8 +28,7 @@ posecamera==2.1.2
 protobuf==3.20.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-requests
-scipy==1.8.0
+scipy
 Shapely==1.8.1.post1
 six==1.16.0
 svgwrite==1.4.2
