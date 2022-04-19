@@ -19,3 +19,6 @@ Install python from  https://www.python.org/downloads/release/python-3911/
 It will pop up a window showcasing your webcam running the model, rendering the keypoint from the model
 
 You may also edit the code to run it in specific image or video files
+
+
+@Developed By Rehanroy
