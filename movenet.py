@@ -23,6 +23,7 @@ if not cap.isOpened():
 
 
 success, img = cap.read()
+img=cv2.flip(img,1)
 
 if not success:
     print('Error reding frame')
@@ -67,5 +68,6 @@ while success:
 
     # Reads next frame
     success, img = cap.read()
+    img=cv2.flip(img,1)
 
 cap.release()
